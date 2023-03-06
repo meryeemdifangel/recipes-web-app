@@ -1,0 +1,6 @@
+new modifications
+contact page gront end 
+filtres page nutrition
+//note
+pour la base de donnee son nom est foodapp
+"j'avais peur de changer son nom la dernier minute"
